@@ -45,7 +45,7 @@ module.exports = {
       goodbye: false,
       goodbyeMessage: 'Goodbye @user 👋 We will never miss you!',
       antiSpam: false,
-      antidelete: false,
+      antidelete: true,
       nsfw: false,
       detect: false,
       chatbot: false,
